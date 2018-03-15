@@ -4,9 +4,30 @@
     "description" : "技术总结，博客精选，技术路线初探...",
     "language" : "zh-hans",
     "links" : {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
         "sidebar" : {
             "个人博客地址" : "http://www.cnblogs.com/runforlove/"
         }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
     },
     "plugins": [
         "-sharing",
