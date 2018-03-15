@@ -5,7 +5,7 @@
     "language" : "zh-hans",
     "links" : {
         "sidebar" : {
-            "API网关系统控制台" : "http://palamidi.wacai.info/api-gateway/"
+            "个人博客地址" : "http://www.cnblogs.com/runforlove/"
         }
     },
     "plugins": [
@@ -24,7 +24,7 @@
         },
         "editlink": {
             "label": "编辑此页",
-            "base": "http://git.caimi-inc.com/open_platform/docs/edit/master/"
+            "base": "https://github.com/RunforLove/Ksitigarbha-Bodhisattva/blob/master/"
         },
         "git-author": {
             "modifyTpl": "最后修改: {user} {timeStamp}",
@@ -40,7 +40,7 @@
             "lang": "ch"
         },
         "tbfed-pagefooter": {
-            "copyright":"开放平台网关项目组 Copyright &copy",
+            "copyright":"霜魂 Copyright &copy",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss",
             "size": 12
