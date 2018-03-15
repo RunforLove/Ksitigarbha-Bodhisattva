@@ -9,6 +9,8 @@
   * StackoverFlow
 * [锁](chapter1.md)
 * 分布式
+* 读书笔记
+  * []() 
 * [待整理](dai-zheng-li.md)
   * [未整理的博客文章](to_be_sorted_out/test.md)
 
