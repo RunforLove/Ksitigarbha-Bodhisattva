@@ -1,3 +1,49 @@
 {
-
+    "title": "技术—-点滴思考",
+    "author" : "霜魂",
+    "description" : "技术总结，博客精选，技术路线初探...",
+    "language" : "zh-hans",
+    "links" : {
+        "sidebar" : {
+            "API网关系统控制台" : "http://palamidi.wacai.info/api-gateway/"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "editlink",
+        "git-author",
+        "expandable-chapters",
+        "toc2",
+        "hypercomments-temp",
+        "splitter",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "editlink": {
+            "label": "编辑此页",
+            "base": "http://git.caimi-inc.com/open_platform/docs/edit/master/"
+        },
+        "git-author": {
+            "modifyTpl": "最后修改: {user} {timeStamp}",
+            "createTpl": "创建: {user} {timeStamp}",
+            "timeStampFormat": "YYYY/MM/DD HH:mm"
+        },
+        "toc2": {
+            "addClass": true,
+            "className": "toc"
+        },
+        "hypercomments-temp": {
+            "wid": 89030,
+            "lang": "ch"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"开放平台网关项目组 Copyright &copy",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss",
+            "size": 12
+        }
+    }
 }
